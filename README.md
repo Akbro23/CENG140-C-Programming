@@ -10,8 +10,8 @@ These are my implementations of the take home exams for C programming course at 
 
 ## Topics
 
-- **Programming assignment 1**: arrays, greedy algorithms
-- **Programming assignment 2**: recursion, pointers, dynamic memory allocation
-- **Programming assignment 3**: structs, doubly linked list, pointers, pointers to pointers, dynamic memory allocation
+- **Take home exam 1**: arrays, greedy algorithms
+- **Take home exam 2**: recursion, pointers, dynamic memory allocation
+- **Take home exam 3**: structs, doubly linked list, pointers, pointers to pointers, dynamic memory allocation
 
 
